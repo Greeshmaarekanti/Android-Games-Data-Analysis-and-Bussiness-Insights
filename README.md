@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project on **6,142 mobile games (2018-2025)** covering revenue, engagement, retention, and ratings. Built with Excel, Python (Pandas), and a three-page interactive Power BI dashboard, it shows that genre, monetization model, and crash rate matter more than art style or session length.
 
-**Team:** Insights Hub - Manisha, Kavya, Nishanth | **Institution:** Teks Academy | **Program:** Data Science
-
 ---
 
 ## Project Objective
